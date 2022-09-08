@@ -16,6 +16,6 @@ if weight != 195:
 age = 11
 
 if age >= 18:
-  print("You are old as fuck!")
+  print("You are old as heck!")
 else:
   print("You are too young for this ride!")
