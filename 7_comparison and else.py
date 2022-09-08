@@ -1,4 +1,4 @@
-
+# variables
 weight = 190.4
 light_is_on = weight < 195
 
