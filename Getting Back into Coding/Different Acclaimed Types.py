@@ -2,7 +2,7 @@ day = 21
 
 temp = -15
 
-weight = 190.4729433
+weight = 95.89
 
 print(weight - 2)
 
