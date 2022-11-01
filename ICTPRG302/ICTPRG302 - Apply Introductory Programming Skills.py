@@ -1,6 +1,5 @@
-import random
-
-fortune_number = random.randint(1,100)
+username = input("username")
+print("username is :" + username)
 
 if fortune_number < 49:
   fortune_text = "You need to put in more work!"
