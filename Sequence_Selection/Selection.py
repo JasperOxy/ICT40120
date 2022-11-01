@@ -20,8 +20,8 @@ word_count = {}
 
 for word in text.lower().split():
   if word in word_count:
-    word_count["boy"] += 1
+    word_count["you"] += 1
   else:
-    word_count["boy"] = 1
+    word_count["you"] = 1
 
 print(word_count)
