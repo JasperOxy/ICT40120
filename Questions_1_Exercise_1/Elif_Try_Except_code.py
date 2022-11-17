@@ -21,4 +21,4 @@ except:
     print("This wasn't successful, Please try again!")
 
 if fortune_number >= 101: 
-       print("You have entered a number that is too high, please enter a number between 1 and 100")
+    print("You have entered a number that is too high, please enter a number between 1 and 100")
